@@ -3,4 +3,4 @@ __pycache__
 env
 .idea
 project/htmlcov
-project/.coveragerc
+project/.coverage
