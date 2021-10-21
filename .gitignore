@@ -1,0 +1,6 @@
+__pycache__
+.env
+env
+.idea
+project/htmlcov
+project/.coveragerc
